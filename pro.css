@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+
+
+.top {
+  padding: 180px 0 100px 0;
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-size: cover;
+  color: white;
+  text-align:center;
+  
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.project-title a{
+  font-family:"Times New Roman";
+  text-decoration:none;
+  font-size:30px;
+  color:#80ff80;
+   
+  
+   
+}
+.project-title a:hover{
+   background-color:#4CAF50;
+   
+   text-decoration:none;
+   
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding-left:10px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.profile3 h4{
+font-size:30px;
+
+}
+.profile4 h5{
+font-size:30px;
+}
+
+
+
+
+
+
+
+
+
+header {
+  height: 100px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.logo {
+
+  
+  float:left;
+}
+.para{
+float:right;
+margin-left:200px;
+font-size:40px;
+margin-bottom:5px;
+color:#ff8c1a;
+}
+
+.header-left {
+  float: left;
+}
+
+
+
+
+
+
+
+
+
+
